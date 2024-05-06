@@ -6,6 +6,7 @@ import Workshops from './components/Workshops';
 import Instructors from './components/Instructors';
 import AdminWorkshops from './components/AdminWorkshops';
 import AdminInstructors from './components/AdminInstructors';
+import "./App.css";
 
 function App() {
     return (
