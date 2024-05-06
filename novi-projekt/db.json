@@ -1,98 +1,58 @@
 {
-  "radionice": [
-    {
-      "id": "radionica_1",
-      "ime": "Radionica 1",
-      "datum": "01.01.2025",
-      "predavac": "predavac_1",
-      "opis": "Kratki opis radionice 1",
-      "broj_prijava": 0
-    },
-    {
-      "id": "c579",
-      "ime": "hgfddf",
-      "opis": "gfdgdfg",
-      "datum": "2024-05-07",
-      "predavac": "kita",
-      "broj_prijava": 0
-    },
-    {
-      "id": "d574",
-      "ime": "Kurčina",
-      "opis": "jebanje",
-      "datum": "2024-05-17",
-      "predavac": "Edi",
-      "broj_prijava": 0
-    },
-    {
-      "id": "a25d",
-      "ime": "hgfddfase",
-      "opis": "asds",
-      "datum": "2024-04-29",
-      "predavac": "dsadasdas",
-      "broj_prijava": 0
-    },
-    {
-      "id": "39e1",
-      "ime": "areWAEASEASE",
-      "opis": "AWEWAEAWEWAE",
-      "datum": "2024-05-14",
-      "predavac": "AEAWE",
-      "broj_prijava": 0
-    },
-    {
-      "id": "fb7d",
-      "ime": "gdfrerer",
-      "opis": "ererer",
-      "datum": "2024-05-14",
-      "predavac": "KURAC",
-      "broj_prijava": 0
-    }
-  ],
-  "predavaci": [
-    {
-      "id": "predavac_1",
-      "ime": "Predavac 1",
-      "biografija": "Biografija predavaca 1",
-      "organizacija": "organizacija_1"
-    }
-  ],
-  "organizacije": [
-    {
-      "id": "organizacija_1",
-      "ime": "Organizacija 1",
-      "opis": "Opis organizacije 1",
-      "radionice": [
-        "radionica_1"
-      ]
-    }
-  ],
-  "tezine": [
-    {
-      "id": "junior",
-      "ime": "Junior"
-    },
-    {
-      "id": "mid",
-      "ime": "Mid"
-    },
-    {
-      "id": "senior",
-      "ime": "Senior"
-    }
-  ],
-  "teme": [
-    {
-      "id": "react",
-      "ime": "React"
-    },
-    {
-      "id": "express",
-      "ime": "Express"
-    },
-    {
-      "id": "next_js",
-      "ime": "Next.js"
-    }
-  ]
+	"radionice": [
+		{
+			"id": "radionica_1",
+			"ime": "Radionica 1",
+			"datum": "01.01.2025",
+			"predavac": "predavac_1",
+			"opis": "Kratki opis radionice 1",
+			"broj_prijava": 0
+		}
+	],
+	"predavaci": [
+		{
+			"id": "predavac_1",
+			"ime": "Predavac 1",
+			"biografija": "Biografija predavaca 1",
+			"organizacija": "organizacija_1"
+		}
+	],
+	"organizacije": [
+		{
+			"id": "organizacija_1",
+			"ime": "Organizacija 1",
+			"opis": "Opis organizacije 1",
+			"radionice": [
+				"radionica_1"
+			]
+		}
+	],
+	"tezine": [
+		{
+			"id": "junior",
+			"ime": "Junior"
+		},
+		{
+			"id": "mid",
+			"ime": "Mid"
+		},
+		{
+			"id": "senior",
+			"ime": "Senior"
+		}
+	],
+	"teme": [
+		{
+			"id": "react",
+			"ime": "React"
+		},
+		{
+			"id": "express",
+			"ime": "Express"
+		},
+		{
+			"id": "next_js",
+			"ime": "Next.js"
+		}
+	]
 }
